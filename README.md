@@ -1,4 +1,4 @@
 # HMS-GMS-Auto-Switcher
 Automatically Switch between HMS or GMS Map based on phone
 
-![Screenshots](Screenshots/gms.png)
+![Screenshots](Screenshots/gms.jpg)
