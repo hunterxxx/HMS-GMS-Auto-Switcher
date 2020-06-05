@@ -7,12 +7,14 @@
     <img alt="Twitter: ulusoyapps" src="https://img.shields.io/twitter/follow/zanteskuan.svg?style=social" />
   </a>
 </p>
-Automatically Switch between HMS or GMS Map based on phone via IF/ELSE
+Automatically Switch between HMS or GMS Map based on phone via IF/ELSE (Kotlin)
 
 <p float="left">
 <img src="Screenshots/gms.jpg" width="280" height="600">
 <img src="Screenshots/hms.jpg" width="280" height="600">
 </p>
+
+## Classes and Res needed
 <img src="Screenshots/classes.PNG" width="391" height="455">
 
 
