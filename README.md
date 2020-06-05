@@ -32,9 +32,9 @@ Automatically Switch between HMS or GMS Map based on phone via IF/ELSE (Kotlin)
  </div>
 </div>
 
-| [![VideoBlocks]<img src="Screenshots/gms.jpg" width="280" height="600">](http://videoblocks.com)  | [![AudioBlocks](https://dtyn3c8zjrx01.cloudfront.net/img/assets/audioblocks/images/logo.png)](http://audioblocks.com) | [![GraphicStock](http://www.graphicstock.com/images/logo.jpg)](http://graphicstock.com) |
-|:---:|:---:|:---:|
-| http://videoblocks.com | http://audioblocks.com | http://graphicstock.com |
+| [<img src="Screenshots/gms.jpg" width="280" height="600">] | [![AudioBlocks](https://dtyn3c8zjrx01.cloudfront.net/img/assets/audioblocks/images/logo.png)](http://audioblocks.com) 
+|:---:|:---:|
+| P20 Pro (GMS+HMS)  | http://audioblocks.com |
 
 ## Classes and Resources needed
 <img src="Screenshots/classes.PNG" width="391" height="455">
