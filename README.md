@@ -10,8 +10,8 @@
 Automatically Switch between HMS or GMS Map based on phone via IF/ELSE
 
 <p float="left">
-<img src="Screenshots/gms.jpg" width="256" height="455">
-<img src="Screenshots/hms.jpg" width="256" height="455">
+<img src="Screenshots/gms.jpg" width="280" height="600">
+<img src="Screenshots/hms.jpg" width="280" height="600">
 </p>
 <img src="Screenshots/classes.PNG" width="256" height="455">
 
