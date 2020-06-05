@@ -21,8 +21,8 @@ Automatically Switch between HMS or GMS Map based on phone via IF/ELSE (Kotlin)
 
 👤 **Hunter**
 
-* Twitter: [@ulusoyapps](https://twitter.com/zanteskuan)
-* Github: [@ulusoyca](https://github.com/hunterxxx)
+* Twitter: [@zanteskuan](https://twitter.com/zanteskuan)
+* Github: [@hunterxxx](https://github.com/hunterxxx)
 * LinkedIn: [@https:\/\/www.linkedin.com\/in\/hunterfoo\/](https://linkedin.com/in/https:\/\/www.linkedin.com\/in\/hunterfoo\/)
 
 ## Show your support
