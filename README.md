@@ -8,8 +8,10 @@
   </a>
 </p>
 
-<h3>HMS stands for Huawei Mobile Services</h3>
-<h3>GMS stands for Google Mobile Services</h3>
+<ul>
+  <li>HMS stands for Huawei Mobile Services</li>
+  <li>GMS stands for Google Mobile Services</li>
+</ul>
 
 Automatically Switch between HMS or GMS Map based on phone via IF/ELSE (Kotlin)
 
