@@ -7,9 +7,12 @@
     <img alt="Twitter: ulusoyapps" src="https://img.shields.io/twitter/follow/zanteskuan.svg?style=social" />
   </a>
 </p>
-Automatically Switch between HMS or GMS Map based on phone
+Automatically Switch between HMS or GMS Map based on phone via IF/ELSE
+
+<p float="left">
 <img src="Screenshots/gms.jpg" width="256" height="455">
 <img src="Screenshots/hms.jpg" width="256" height="455">
+</p>
 <img src="Screenshots/classes.PNG" width="256" height="455">
 
 
