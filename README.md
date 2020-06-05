@@ -26,7 +26,7 @@ Automatically Switch between HMS or GMS Map based on phone via IF/ELSE (Kotlin)
    <img src="Screenshots/gms.jpg" width="280" height="600">
     caption 1
   </div>
- <div style="float: left;">
+ <div style="float: right;">
    <img src="Screenshots/hms.jpg" width="280" height="600">
    caption 2                      
  </div>
