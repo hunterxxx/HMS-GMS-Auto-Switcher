@@ -7,6 +7,10 @@
     <img alt="Twitter: ulusoyapps" src="https://img.shields.io/twitter/follow/zanteskuan.svg?style=social" />
   </a>
 </p>
+
+<h3>HMS stands for Huawei Mobile Services</h3>
+<h3>GMS stands for Google Mobile Services</h3>
+
 Automatically Switch between HMS or GMS Map based on phone via IF/ELSE (Kotlin)
 
 <p float="left">
