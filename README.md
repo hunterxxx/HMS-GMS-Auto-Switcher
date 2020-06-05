@@ -4,7 +4,7 @@
     <img alt="License: Apache License, Version 2.0 (the &#34;License&#34;)" src="https://img.shields.io/badge/License-Apache License, Version 2.0 (the &#34;License&#34;)-yellow.svg" />
   </a>
   <a href="https://twitter.com/zanteskuan" target="_blank">
-    <img alt="Twitter: ulusoyapps" src="https://img.shields.io/twitter/follow/ulusoyapps.svg?style=social" />
+    <img alt="Twitter: ulusoyapps" src="https://img.shields.io/twitter/follow/zanteskuan.svg?style=social" />
   </a>
 </p>
 Automatically Switch between HMS or GMS Map based on phone
