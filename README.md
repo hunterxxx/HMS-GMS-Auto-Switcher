@@ -15,16 +15,9 @@
 
 Automatically Switch between HMS or GMS Map based on phone via IF/ELSE (Kotlin)
 
-<figure>
-<img src="Screenshots/gms.jpg" width="280" height="600">
-<figcaption>Your text here</figcaption>
-<img src="Screenshots/hms.jpg" width="280" height="600">
-</figure>
-
-
-| <img src="Screenshots/gms.jpg" width="280" height="600"> | <img src="Screenshots/hms.jpg" width="280" height="600">]
+|<img src="Screenshots/gms.jpg" width="280" height="600">|<img src="Screenshots/hms.jpg" width="280" height="600">|
 |:---:|:---:|
-| Huawei P20 Pro (GMS+HMS)  | Huawei P40 Lite (HMS Only)   |
+| Huawei P20 Pro (GMS+HMS) | Huawei P40 Lite (HMS Only) |
 
 ## Classes and Resources needed
 <img src="Screenshots/classes.PNG" width="391" height="455">
