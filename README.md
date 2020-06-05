@@ -17,4 +17,21 @@ Automatically Switch between HMS or GMS Map based on phone via IF/ELSE (Kotlin)
 ## Classes and Resources needed
 <img src="Screenshots/classes.PNG" width="391" height="455">
 
+## Author
+
+👤 **Hunter**
+
+* Twitter: [@ulusoyapps](https://twitter.com/zanteskuan)
+* Github: [@ulusoyca](https://github.com/hunterxxx)
+* LinkedIn: [@https:\/\/www.linkedin.com\/in\/hunterfoo\/](https://linkedin.com/in/https:\/\/www.linkedin.com\/in\/hunterfoo\/)
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+## 📝 License
+
+Copyright © 2020 [Hunter](https://github.com/hunterxxx).<br />
+This project is [Apache License, Version 2.0 (the &#34;License&#34;)](http://www.apache.org/licenses/LICENSE-2.0) licensed.
+
 
