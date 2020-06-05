@@ -21,20 +21,10 @@ Automatically Switch between HMS or GMS Map based on phone via IF/ELSE (Kotlin)
 <img src="Screenshots/hms.jpg" width="280" height="600">
 </figure>
 
-<div style="margin: 0 auto; text-align: center; overflow: hidden;">
-  <div style="float: left;">
-   <img src="Screenshots/gms.jpg" width="280" height="600">
-    caption 1
-  </div>
- <div style="float: right;">
-   <img src="Screenshots/hms.jpg" width="280" height="600">
-   caption 2                      
- </div>
-</div>
 
-| [<img src="Screenshots/gms.jpg" width="280" height="600">] | [![AudioBlocks](https://dtyn3c8zjrx01.cloudfront.net/img/assets/audioblocks/images/logo.png)](http://audioblocks.com) 
+| <img src="Screenshots/gms.jpg" width="280" height="600"> | <img src="Screenshots/hms.jpg" width="280" height="600">]
 |:---:|:---:|
-| P20 Pro (GMS+HMS)  | http://audioblocks.com |
+| Huawei P20 Pro (GMS+HMS)  | Huawei P40 Lite (HMS Only)   |
 
 ## Classes and Resources needed
 <img src="Screenshots/classes.PNG" width="391" height="455">
