@@ -3,9 +3,6 @@
   <a href="http://www.apache.org/licenses/LICENSE-2.0" target="_blank">
     <img alt="License: Apache License, Version 2.0 (the &#34;License&#34;)" src="https://img.shields.io/badge/License-Apache License, Version 2.0 (the &#34;License&#34;)-yellow.svg" />
   </a>
-  <a href="https://twitter.com/zanteskuan" target="_blank">
-    <img alt="Twitter: ulusoyapps" src="https://img.shields.io/twitter/follow/zanteskuan.svg?style=social" />
-  </a>
 </p>
 
 <ul>
