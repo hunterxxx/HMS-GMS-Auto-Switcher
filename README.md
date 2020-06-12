@@ -12,6 +12,8 @@
 
 Automatically Switch between HMS or GMS Map based on phone via IF/ELSE (Kotlin)
 
+https://medium.com/@heydjbaby/hms-gms-auto-switcher-with-if-else-full-source-code-available-below-fd27798a1a2f
+
 |<img src="Screenshots/hms.jpg" width="280" height="600">|<img src="Screenshots/gms.jpg" width="280" height="600">|
 |:---:|:---:|
 | Huawei P20 Pro (GMS+HMS) | Huawei P40 Lite (HMS Only) |
