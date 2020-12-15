@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to HMS/GMS Auto Switcher 👋</h1>
 <h3 align="center">
-This demo is Available on Huawei AppGallery
+This demo is available on Huawei AppGallery
  <a href="https://appgallery.cloud.huawei.com/ag/n/app/C103455197?channelId=hunter&id=0e641a732fc947a5b9edba6117e085eb&s=AA4546B20237191E2906FB508DAC000AB8A061A92628B1679B58E95EC2990231&detailType=0" a target="_blank" rel="noopener noreferrer">
 <img src="Screenshots/ic_logo.png" width="550" height="167">
  </a>
